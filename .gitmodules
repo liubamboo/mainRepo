@@ -1,0 +1,6 @@
+[submodule "subRepo1"]
+	path = subRepo1
+	url = https://github.com/liubamboo/subRepo1
+[submodule "subRepo2"]
+	path = subRepo2
+	url = git@github.com:liubamboo/subRepo2.git
